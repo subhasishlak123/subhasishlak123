@@ -1,6 +1,7 @@
-<!--
-**subhasishlak123/subhasishlak123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋, my name is Subhasish Lakshman
 #### I am currently learning python
-![I am currently learning python](https://arturssmirnovs.github.io/github-p
+
+I am currently learning python
+
+<i> I am a computer science major, lover of programming languages ❤️, 
+dreaming of one-day coding the next best app 💻💻 </i>
